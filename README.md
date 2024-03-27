@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @Prathik-mishra<br>I like solving problems related to data structures and algorithms.<br>i am currently having good in Java with spring and spring boot, REST-APIs,PostMan,MySQL,SWAGGER,git and gitHub,HTML,CSS,javascript,JSON etc Technologies and languages.<br>⚡ Fun fact: i like watching Anime and playing multiplayer PC and mobile games.
+Hi, I’m @Prathik-mishra<br>I like solving problems related to data structures and algorithms.<br>i am currently having good in Java with spring and spring boot, REST-APIs,PostMan,MySQL,SWAGGER,git and gitHub,HTML,CSS,javascript,JSON etc Technologies and languages.<br>⚡ Extras: i like watching Anime and playing multiplayer PC and mobile games.
 
 
 ## 🌐 Socials:
