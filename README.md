@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I’m @Prathik-mishra<br>I like solving problems related to data structures and algorithms.<br>i am currently having good in Java with spring and spring boot, REST-APIs,PostMan,MySQL,SWAGGER,git and gitHub,HTML,CSS,javascript,JSON etc Technologies and languages.<br>⚡ Extras: i like watching Anime and playing multiplayer PC and mobile games.
+Hi, I’m @Prathik-mishra<br>
+I like solving problems of datastructures and algorithms and design the high level of a systems learning and tackling new concepts.<br>
+Languages :- JAVA, JAVASCRIPT, HTML, CSS, SQL querries.<br>
+Technologies :- SPRINGBOOT, HIBERNATE, JPA, MYSQL, MAVEN, POSTMAN, POSTGRESS, SWAGGER, BOOTSTRAP, REACT, VS code, Intellij IDEA, Apache netbeans, CMD tool, git and github (VCS) .<br>
+CORE :- OOPS(Object-Oriented Programming System), DBMS(Database Management System), OS(Operating System).<br> 
+⚡ Extras: i like watching Anime and playing multiplayer PC and mobile games.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathik-mishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
